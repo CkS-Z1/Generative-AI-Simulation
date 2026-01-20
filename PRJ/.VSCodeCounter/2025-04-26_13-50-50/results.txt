@@ -1,0 +1,45 @@
+Date : 2025-04-26 13:50:50
+Directory : c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE
+Total : 21 files,  5123 codes, 781 comments, 578 blanks, all 6482 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C        |         21 |      5,123 |        781 |        578 |      6,482 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                     | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                        |         21 |      5,123 |        781 |        578 |      6,482 |
++----------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                 | language | code       | comment    | blank      | total      |
++----------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\Chinput.c  | C        |        430 |         42 |         35 |        507 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\IMAGE.c    | C        |        264 |         21 |         18 |        303 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\MOUSE.C    | C        |        232 |         39 |         26 |        297 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\box.c      | C        |        192 |         58 |         16 |        266 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\button.c   | C        |         36 |         31 |          3 |         70 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\chat.c     | C        |        254 |         36 |         47 |        337 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\chatcore.c | C        |        159 |         45 |         30 |        234 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\hz.c       | C        |        196 |          5 |          9 |        210 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\input.c    | C        |        734 |         34 |         68 |        836 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\login.c    | C        |         67 |          6 |         12 |         85 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\logindat.c | C        |         97 |          0 |          7 |        104 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\main.c     | C        |        115 |        141 |         29 |        285 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\output.c   | C        |        379 |         52 |         44 |        475 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\picture.c  | C        |        310 |         37 |         43 |        390 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\register.c | C        |        107 |         21 |         14 |        142 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\save.c     | C        |         24 |          2 |          3 |         29 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\storyGen.c | C        |        411 |         41 |         38 |        490 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\storyIn.c  | C        |        375 |         54 |         38 |        467 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\turn.c     | C        |        151 |         25 |         18 |        194 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\util_c.c   | C        |        537 |         74 |         74 |        685 |
+| c:\Users\15672\Desktop\BC31\DISK_C\PRJ\SOURCE\welcome.c  | C        |         53 |         17 |          6 |         76 |
+| Total                                                    |          |      5,123 |        781 |        578 |      6,482 |
++----------------------------------------------------------+----------+------------+------------+------------+------------+

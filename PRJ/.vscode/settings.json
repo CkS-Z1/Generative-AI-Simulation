@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "MOUSE.C": "cpp",
+        "BGIDEMO.C": "cpp",
+        "welcome.h": "c",
+        "hz.h": "c",
+        "button.h": "c",
+        "register.h": "c",
+        "input.h": "c",
+        "string.h": "c",
+        "box.h": "c",
+        "login.h": "c",
+        "mouse.h": "c",
+        "storygen.h": "c",
+        "typeinfo": "c",
+        "storyIn.h": "c",
+        "type_traits": "c",
+        "output.h": "c",
+        "conio.h": "c",
+        "stdlib.h": "c",
+        "time.h": "c",
+        "main.h": "c",
+        "picture.h": "c",
+        "stdio.h": "c",
+        "turn.h": "c",
+        "user.h": "c",
+        "dos.h": "c"
+    }
+}
